@@ -1,6 +1,6 @@
 # Media Extractor
 
-This is very simple and quick a personal project for a specific use case where I needed .rar files extracted from a watched folder automatically.
+This is a very simple and quick personal project for a specific use case where I needed .rar files extracted from a watched folder automatically.
 
 ## Usage
 

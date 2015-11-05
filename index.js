@@ -2,7 +2,7 @@ var extract = require('./lib/media-extractor');
 
 extract({
   source: [
-    '/Users/johndoe/Downloads/'
+    '/Users/pcanterini/Desktop/extractor_app/downloads/'
   ],
-  destination: '/Users/johndoe/Extracted/',
+  destination: '/Users/pcanterini/Desktop/extractor_app/extracted/',
 });
