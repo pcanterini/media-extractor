@@ -1,3 +1,8 @@
 var extract = require('./lib/media-extractor');
 
-extract();
+extract({
+  source: [
+    '/Users/johndoe/Downloads/'
+  ],
+  destination: '/Users/johndoe/Extracted/',
+});
